@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Gagan Deep Singh 👋</h1>
 
 <p align="center">
-  Data Engineer & GenAI Builder &nbsp; &nbsp;|&nbsp; United States
+  Data Engineer & GenAI Builder &nbsp;|&nbsp; United States
 </p>
 
 ---
@@ -11,7 +11,6 @@
 - 🔭 Currently building real-time streaming pipelines & Delta Lake systems.
 - 🌱 Learning **dbt, MLflow, LLM fine-tuning & Spark optimization**
 - 🎓 M.S. Information Technology (STEM) — Clark University | GPA: 3.94
-- 🇮🇳 Originally from India, now based in Houston
 - 💬 Ask me about **Databricks, Microsoft Fabric, OpenAI APIs, or real-time data pipelines**
 - 📫 Reach me at **gagands5221@gmail.com**
 
