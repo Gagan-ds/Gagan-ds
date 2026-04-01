@@ -58,7 +58,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gagan-ds&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gagan-ds&show_icons=true&theme=tokyonight" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gagan-ds&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Gagan-ds&theme=tokyonight"/>
 </p>
 
 ---
@@ -69,7 +75,7 @@
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/gagan-deep-singh-6722b7190">
-    <img src="https://www.pinterest.com/ideas/linkedin-logo/935930012424"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/Gagan-ds">
