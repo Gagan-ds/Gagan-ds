@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Gagan Deep Singh 👋</h1>
 
 <p align="center">
-  Data Engineer & GenAI Builder &nbsp;|&nbsp; F-1 OPT Eligible &nbsp;|&nbsp; Houston, TX 🇺🇸
+  Data Engineer & GenAI Builder &nbsp; &nbsp;|&nbsp; United States
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-- 🔭 Currently building real-time streaming pipelines & Delta Lake systems @ **Cittabase Solutions**
+- 🔭 Currently building real-time streaming pipelines & Delta Lake systems.
 - 🌱 Learning **dbt, MLflow, LLM fine-tuning & Spark optimization**
 - 🎓 M.S. Information Technology (STEM) — Clark University | GPA: 3.94
 - 🇮🇳 Originally from India, now based in Houston
@@ -58,15 +58,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagan-ds&show_icons=true&theme=tokyonight" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-ds&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gagan-ds&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
 
 <p align="center">
-  <a href="mailto:gagands5221@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/gagan-deep-singh-6722b7190">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Gagan-ds">🐙 GitHub</a>
+  <a href="mailto:gagands5221@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gagan-deep-singh-6722b7190">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Gagan-ds">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
