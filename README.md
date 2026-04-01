@@ -19,19 +19,24 @@
 
 ### 🛠️ Tech Stack
 
-![Python](https://skillicons.dev/icons?i=python,azure,aws,git,linux,django,tensorflow,pytorch)
+![Skills](https://skillicons.dev/icons?i=python,azure,aws,git,linux,django,tensorflow,pytorch,fastapi)
 
 **Data & BI:** Databricks · Microsoft Fabric · Delta Lake · Apache Spark · ETL/ELT · Data Modeling  
 **AI / ML:** OpenAI API · Prompt Engineering · LLMs · YOLOv5 · EasyOCR · Scikit-learn  
 **Cloud:** Microsoft Azure · AWS S3  
-**Tools:** FFmpeg · Postman · SQL · PowerShell · Advanced Excel  
+**Tools:** FastAPI · FFmpeg · Postman · SQL · PowerShell  
 
 ---
 
 ### 🚀 Featured Projects
 
+#### 💘 Rizz AI — Dating Assistant Backend
+> AI-powered REST API that helps craft dating app openers, improve bad messages, and generate context-aware conversation replies with stage detection.  
+> Built with **FastAPI + Groq (LLaMA 3.3 70B)** — supports tone, gender & platform personalization (Tinder, Bumble, Hinge, Instagram).  
+> `Python` `FastAPI` `Groq API` `LLaMA 3` `Prompt Engineering` `REST API`
+
 #### 🤖 AI LinkedIn Post Generator
-> GenAI app using OpenAI API with prompt engineering to generate high-quality LinkedIn posts.  
+> GenAI app using OpenAI API with chain-of-thought prompting to produce targeted LinkedIn posts; modular pipeline for input processing, LLM generation, and output refinement.  
 > `Python` `OpenAI API` `Prompt Engineering`
 
 #### 📹 Real-Time Cricket Highlight System
@@ -53,15 +58,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-HANDLE&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gagan-ds&show_icons=true&theme=tokyonight" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-HANDLE&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan-ds&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
 <p align="center">
   <a href="mailto:gagands5221@gmail.com">📧 Email</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/YOUR-HANDLE">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/YOUR-HANDLE">🐙 GitHub</a>
+  <a href="https://linkedin.com/in/gagan-deep-singh-6722b7190">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Gagan-ds">🐙 GitHub</a>
 </p>
