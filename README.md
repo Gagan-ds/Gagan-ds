@@ -69,7 +69,7 @@
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/gagan-deep-singh-6722b7190">
-    <img src="https://www.pinterest.com/ideas/linkedin-logo/935930012424/"/>
+    <img src="https://www.pinterest.com/ideas/linkedin-logo/935930012424"/>
   </a>
   &nbsp;
   <a href="https://github.com/Gagan-ds">
